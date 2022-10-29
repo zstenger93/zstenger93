@@ -8,7 +8,7 @@
 ---
 
 
-  :man_technologist: **My name is Zsolt and I'm a student at 42.**
+  :man_technologist: **Hello, I'm a student at 42.**
 
   :exploding_head: **Currently working on the Core Curriculum.**
 
