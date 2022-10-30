@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <p style="text-align: center;">
-  Our life in a nutshell:
-  </p>
+<div id="header" align="center" style="text-align: center;">
+  
+   ***Life of a programmer in a nutshell:***
+  
   <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
 
@@ -27,3 +27,9 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstenger93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div id="header" align="center">
+  <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/>
+</div>
