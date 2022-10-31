@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <div id="header" align="center" style="text-align: center;">
   
    ***Life of a programmer in a nutshell:***
@@ -9,9 +15,18 @@
 
 <h4 align="center">
   
-  :man_technologist: **My name is Zsolt and I'm a student at 42.**
+  :man_technologist:  **My name is Zsolt and I'm a student at 42 Heilbronn.**
 
-  :exploding_head: **Currently working on the Core Curriculum.**
+  :exploding_head:  **Currently working on the Core Curriculum projects.**
+  
+  :camera:  **I love photography** [You can check it out here](https://www.wanderlustontheroad.com/)
+  
+  :coffee:  **Drinker who eates programming memes for breakfast**
+  
+  :computer:  **Aiming to build a better future for the next generations**
+  
+  ***I want to wake up in the morning and think the future is going to be great***
+  ***Do you?***
 
 
 
