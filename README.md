@@ -7,23 +7,26 @@
 
 ---
 
-
-  :man_technologist: **Hello, I'm a student at 42.**
+<h4 align="center">
+  
+  :man_technologist: **My name is Zsolt and I'm a student at 42.**
 
   :exploding_head: **Currently working on the Core Curriculum.**
 
 
 
-
+</h4>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<div align="center" style="text-align: center;">
+  <h2>⚡Languages and Tools⚡</h2>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></code>
+</div>
+  
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstenger93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
