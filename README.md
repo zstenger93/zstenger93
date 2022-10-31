@@ -62,9 +62,10 @@
     </a>
   </div>
   <br>
+  <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=zstenger93&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+-->
 <div id="header" align="center">
   
   <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/>
