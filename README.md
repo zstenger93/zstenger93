@@ -21,6 +21,10 @@
   
   :camera:  **I love photography** [You can check it out here](https://www.wanderlustontheroad.com/)
   
+  :world_map: **To explore this piece of rock floating in nothingness called :earth_americas:**
+
+  :compass: **To get lost on a top of :mountain: :volcano: :desert: or in the :cityscape:**
+
   :coffee:  **Drinker who eates programming memes for breakfast**
   
   :computer:  **Aiming to build a better future for the next generations**
