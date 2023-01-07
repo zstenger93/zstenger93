@@ -25,7 +25,7 @@
 
   :compass: **While constantly getting lost on a top of :mountain: :volcano: or in the :desert: and :cityscape:**
 
-  :coffee:  **Drinker who eates programming memes for breakfast**
+  :coffee:  **Drinker who eates programming memes for breakfast :trollface:**
   
   :computer:  **Aiming to build a better future for the next generations**
   
