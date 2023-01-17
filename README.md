@@ -9,8 +9,8 @@
   title="Do something great"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <div id="header" align="center" style="text-align: center;">
-  
-   ***Life of a programmer in a nutshell:***
+
+   ***$${\color{blue}Life of a programmer in a nutshell:}$$***
   
   <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
