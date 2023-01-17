@@ -46,11 +46,7 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></code>
 </div>
-  
----
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/zstenger93/zstenger93/blob/output/github-contribution-grid-snake.svg)
 <br>
 <p align=center>
   <div align=center>
