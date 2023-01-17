@@ -69,11 +69,14 @@
     </a>
   </div>
   <br>
-  
+</p>
+
   ---
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=zstenger93&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<h4>
+  **I use** https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+</h4>
+
 
 <div id="header" align="center">
   
