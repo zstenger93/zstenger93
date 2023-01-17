@@ -37,6 +37,10 @@
   
   ***Do you:interrobang:***
 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> (mailto:wanderlustontheroad93@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+  	
+
 
 
 </h4>
