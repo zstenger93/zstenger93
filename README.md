@@ -27,7 +27,7 @@
   
   :world_map: **& to explore this piece of rock floating in nothingness called :earth_americas:**
 
-  :compass: **While constantly getting lost on a top of :mountain: :volcano: or in the :desert: and :cityscape:**
+  :compass: **While constantly getting lost on a top of :mountain: :volcano: or in the :desert: and in the :cityscape:**
 
   :coffee:  **Drinker who eates programming memes for breakfast :trollface:**
   
