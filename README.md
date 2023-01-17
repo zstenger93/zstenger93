@@ -48,6 +48,7 @@
 </div>
 
 ![Snake animation](https://github.com/zstenger93/zstenger93/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <p align=center>
   <div align=center>
