@@ -1,8 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 <img
   src="DO_IT.jpeg"
   alt="Do something great"
@@ -17,6 +12,11 @@
 
 ---
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
