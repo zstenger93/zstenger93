@@ -75,6 +75,5 @@
   
   <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/>
 </div>
-<div align="center" style="text-align: center;">
-  <code><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{zstenger93}1212%2Fhit-counter" /></code>
-</div>
+
+[![](https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3)](https://visitcount.itsvg.in)
