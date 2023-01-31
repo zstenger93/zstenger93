@@ -64,6 +64,7 @@
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+      <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     </p>
   <h2>🛠️In progress🛠️</h2>
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -105,5 +106,7 @@
       <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
     </p>
 </div>
+
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zsolt.stenger/)
 
 [![](https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3)](https://visitcount.itsvg.in)
