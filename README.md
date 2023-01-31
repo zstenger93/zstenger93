@@ -18,6 +18,7 @@
   </a>
 </h1>
 <h4 align="center">
+  <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
 
@@ -96,7 +97,7 @@
   <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/>
 </div>
 <div>
-  <h2>When I have free(time); 🎮</2>
+  <h2 align=center>🎮When I have free(time);</2>
     <p>
       <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
       <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
