@@ -60,6 +60,7 @@
     <p>
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     </p>
   <h2>🛠️In progress🛠️</h2>
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -93,6 +94,13 @@
 <div id="header" align="center">
   
   <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/>
+</div>
+<div>
+  <h2>When I have free(time); 🎮</2>
+    <p>
+      <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
+      <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
+    </p>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3)](https://visitcount.itsvg.in)
