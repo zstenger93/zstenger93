@@ -17,12 +17,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h4 align="center">
+<!-- <h4 align="center">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
-</h4>
+</h4> -->
 <h4 align="center">
   
-  :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
+  :man_technologist:  **My name is Zsolt and I'm a Computer Science student at <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">.**
 
   :exploding_head:  **Currently working on the Core Curriculum projects.**
   
