@@ -17,10 +17,10 @@
   
   <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
-<h4 align="left">
+<h4 align="center">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
 </h4>
-<h4 align="left">
+<h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
 
