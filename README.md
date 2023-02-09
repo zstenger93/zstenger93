@@ -3,12 +3,6 @@
   alt="Do something great"
   title="Do something great"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-<div id="header" align="center" style="text-align: center;">
-
-   ***Life of a programmer in a nutshell:***
-  
-  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
-</div>
 
 ---
 
@@ -17,10 +11,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h4 align="center">
+<div id="header" align="rightr" style="text-align: right;">
+
+   ***Life of a programmer in a nutshell:***
+  
+  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
+</div>
+<h4 align="left">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
 </h4>
-<h4 align="center">
+<h4 align="left">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
 
