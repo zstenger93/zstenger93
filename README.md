@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div id="header" align="right" style="text-align: right;">
+<div id="header" align="center" style="text-align: center;">
 
    ***Life of a programmer in a nutshell:***
   
