@@ -36,7 +36,7 @@
   
   :computer:  **Aiming to build a better future for the next generations**
   
-  ***:bulb: I want to wake up in the morning and think the future is going to be great :bulb:***
+  ***:bulb: I want to wake up in the morning and think the future is going to be great***
   
   ***Do you:interrobang:***
 
@@ -68,6 +68,7 @@
     </p>
   <h2>🛠️In progress🛠️</h2>
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
