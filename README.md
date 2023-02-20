@@ -2,7 +2,7 @@
   src="DO_IT.jpeg"
   alt="Do something great"
   title="Do something great"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 1000px">
 
 ---
 
