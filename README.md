@@ -18,8 +18,8 @@
 
    ***Life of a programmer in a nutshell:***
   
+  <img align="left" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
-<img align="right" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 <h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
