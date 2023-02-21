@@ -14,12 +14,6 @@
 <h4 align="center">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
 </h4>
-<div id="header" align="center" style="text-align: center;">
-
-   ***Life of a programmer in a nutshell:***
-  
-  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
-</div>
 <h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
@@ -117,4 +111,15 @@
 </div>
 <div align=center>
     <img src="https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3">
+</div>
+
+---
+
+<div id="header" align="center" style="text-align: center;">
+<h2>
+
+   ***Life of a programmer in a nutshell:***
+
+</h2>
+  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
