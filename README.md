@@ -18,7 +18,7 @@
 
    ***Life of a programmer in a nutshell:***
   
-  <img align="left" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
+  <img align="right" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
 <h4 align="center">
   
