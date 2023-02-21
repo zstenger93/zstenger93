@@ -11,19 +11,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h4 align="left">
+<h4 align="center">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
 </h4>
-<div id="header" align="left" style="text-align: center;">
+<div id="header" align="center" style="text-align: center;">
 
    ***Life of a programmer in a nutshell:***
   
-  <img align="right" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
-
----
-
-<div align="left">
 <h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
@@ -45,7 +41,6 @@
   ***Do you:interrobang:***
 
 </h4>
-</div>
 
 ---
 
