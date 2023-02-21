@@ -3,9 +3,6 @@
   alt="Do something great"
   title="Do something great"
   style="display: inline-block; margin: 0 auto; max-width: 1000px">
-
----
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
