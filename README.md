@@ -23,8 +23,8 @@
 
 ---
 
-<div align="center">
-<h4>
+<div align="left">
+<h4 align="center">
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
 
