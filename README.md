@@ -20,7 +20,8 @@
   
   <img align="right" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 </div>
-<h4 align="center">
+<div align="center">
+<h4>
   
   :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
 
@@ -41,6 +42,7 @@
   ***Do you:interrobang:***
 
 </h4>
+</div>
 
 ---
 
