@@ -112,9 +112,6 @@
 <div align=center>
     <img src="https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3">
 </div>
-
----
-
 <div id="header" align="center" style="text-align: center;">
 <h2>
 
