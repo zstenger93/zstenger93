@@ -13,10 +13,12 @@
 </h4>
 <h4 align="center">
   
-  :man_technologist:  **My name is Zsolt and I'm a Computer Science student at 42 Heilbronn.**
+  :man_technologist:  **I study Computer Science at 42 Heilbronn.**
 
-  :exploding_head:  **Currently working on the Core Curriculum projects.**
+  :exploding_head:  **Currently working on the second half of the Core Curriculum projects.**
   
+<details>
+
   :camera:  **I love photography** [You can check it out here](https://www.wanderlustontheroad.com/)
   
   :world_map: **& to explore this piece of rock floating in nothingness called :earth_americas:**
@@ -32,6 +34,7 @@
   ***Do you:interrobang:***
 
 </h4>
+</details>
 
 ---
 
