@@ -112,7 +112,7 @@
 	</div>
 	<div id="header" align="center" style="text-align: center;">
 	<h2>
-	***Life of a programmer in a nutshell:***
+		Life of a programmer in a nutshell:
 	</h2>
 	<img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 	</div>
