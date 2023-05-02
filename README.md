@@ -91,9 +91,9 @@
   <img src="https://github.com/zstenger93/zstenger93/blob/main/space.jpeg" width="1000">
   <!-- <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/> -->
 </div>
-<details>
+<When I have free(time);>
 	<div align=center>
-	<h2>🎮 When I have free(time);</2>
+	<h2>🎮</2>
 		<p>
 		<img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
 		<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
@@ -112,9 +112,7 @@
 	</div>
 	<div id="header" align="center" style="text-align: center;">
 	<h2>
-
-	***Life of a programmer in a nutshell:***
-
+		***Life of a programmer in a nutshell:***
 	</h2>
 	<img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
 	</div>
