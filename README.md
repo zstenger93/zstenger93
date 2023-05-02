@@ -91,7 +91,7 @@
   <img src="https://github.com/zstenger93/zstenger93/blob/main/space.jpeg" width="1000">
   <!-- <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/> -->
 </div>
-<When I have free(time);>
+<When_I_have_free(time);>
 	<div align=center>
 	<h2>🎮</2>
 		<p>
