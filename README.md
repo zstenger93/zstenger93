@@ -121,9 +121,6 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
 	</div>
-	<div align=center>
-		<img src="https://visitcount.itsvg.in/api?id=zstenger93&icon=2&color=3">
-	</div>
 	<div id="header" align="center" style="text-align: center;">
 	<h2>
 		Life of a programmer in a nutshell:
