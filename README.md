@@ -15,7 +15,7 @@
   
   :man_technologist:  **I study Computer Science at 42 Heilbronn.**
 
-  :exploding_head:  **Currently working on the second half of the Core Curriculum projects.**
+  :exploding_head:  **Currently working on the last projects of the Core Curriculum.**
   
 <details>
 
