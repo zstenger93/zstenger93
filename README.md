@@ -9,9 +9,6 @@
   </a>
 </h1>
 <h4 align="center">
-  <img src="https://github.com/zstenger93/zstenger93/blob/main/HEILBRONN.jpeg">
-</h4>
-<h4 align="center">
   
   :man_technologist:  **I study Computer Science at 42 Heilbronn.**
 
@@ -77,9 +74,9 @@
 	<p>
 	  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 	  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+	  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 	  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 	  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-	  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 	  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 	</p>
 </div>
