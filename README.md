@@ -16,7 +16,7 @@
   
 <details>
 
-  :camera:  **I love photography** [You can check it out here](https://www.wanderlustontheroad.com/)
+  :camera:  **I love photography** [You can check it out here](https://zstenger93.github.io/wanderlustontheroad/)
   
   :world_map: **& to explore this piece of rock floating in nothingness called :earth_americas:**
 
@@ -66,9 +66,13 @@
       <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
     </p>
 	<p>
+	  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+	  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+	  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 	  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    
 	</p>
   <h2>🛠️In progress🛠️</h2>
 	<p>
