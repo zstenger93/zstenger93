@@ -10,9 +10,11 @@
 </h1>
 <h4 align="center">
   
-  :man_technologist:  **I study Computer Science at 42 Heilbronn.**
+  :man_technologist:  **Developer @ Schwarz IT.**
 
-  :exploding_head:  **I have finished the Core, now I work on Mastery projects.**
+  :exploding_head:  **Alumni @ 42 Heilbronn.**
+
+  :exploding_head:  **In my free time I work on mastery and personal projects .**
   
 <details>
 
