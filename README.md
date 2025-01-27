@@ -10,11 +10,9 @@
 </h1>
 <h4 align="center">
   
-  :man_technologist:  **Developer @ Schwarz IT.**
+  :man_technologist:  **Developer @ Schwarz IT & Alumni @ 42 Heilbronn.**
 
-  :exploding_head:  **Alumni @ 42 Heilbronn.**
-
-  :exploding_head:  **In my free time I work on mastery and personal projects .**
+  :exploding_head:  **In my free time I work on my game engine or mastery projects at 42.**
   
 <details>
 
@@ -35,11 +33,12 @@
 </h4>
 </details>
 
----
+<h2></h2>
 
 <div align="center" style="text-align: center;">
-  <h2>⚡Languages and Tools I use⚡</h2>
+  <h2>🛠️⚡Languages and Tools I use⚡🛠️</h2>
   <p>
+	  <img src="https://a11ybadges.com/badge?logo=vulkan">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -72,29 +71,23 @@
 	  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	</p>
-  <h2>🛠️In progress🛠️</h2>
-	<p>
-	  <img src="https://a11ybadges.com/badge?logo=vulkan">
-	  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-	</p>
+  <h2></h2>
 </div>
 
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=zstenger93&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img height=163   src="https://github-readme-stats.zohan.tech/api/top-langs/?username=zstenger93&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.zohan.tech/api?username=zstenger93&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=390 src="https://github-readme-stats.zohan.tech/api?username=zstenger93&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
 </p>
-
-  ---
+  <h2></h2>
 
 <div id="header" align="center">
   <img src="https://github.com/zstenger93/zstenger93/blob/main/space.jpeg" width="1000">
